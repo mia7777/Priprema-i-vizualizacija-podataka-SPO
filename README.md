@@ -5,4 +5,5 @@ Za kolegij Sustavi za podršku odlučivanju potrebno je bilo izraditi praktičan
 Ideja seminara bila je prikazati koliko iznosi ukupna stopa fertiliteta razvijenih i nerazvijenih zemalja te kako drugi čimbenici utječu na nju.
 
 Alat koji su koristio za čišćenje podataka: Talend Open Studio
+
 Alati koji su se koristili za vizualizaciju odabranih podataka: Tableau i MicroStrategy
