@@ -1,6 +1,6 @@
 # Priprema-i-vizualizacija-podataka-SPO
 
-Za kolegij Sustavi za podršku odlučivanju potrebno je bilo izraditi praktičan rad koji se odnosio na prikupljanje, pripremanje i vizualizaciju podatka.
+Za kolegij Sustavi za podršku odlučivanju potrebno je bilo izraditi praktičan rad koji se odnosio na prikupljanje, pripremanje i vizualizaciju podataka.
 
 Ideja seminara bila je prikazati koliko iznosi ukupna stopa fertiliteta razvijenih i nerazvijenih zemalja te kako drugi čimbenici utječu na nju.
 
